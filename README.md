@@ -1,5 +1,3 @@
-Compiler Phase 2
-
 Compile project with: 
 "javac Parser.java"
 

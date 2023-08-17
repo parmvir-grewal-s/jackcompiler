@@ -4,3 +4,5 @@ Compile project with:
 To run it and test along a source file:
 
 "java Parser sourcefile", where sourcefile is the name of the source file you'd like to use.
+
+Compiled files will be put into "out/production".
